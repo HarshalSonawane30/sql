@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-12T20:15:40.850Z",
+  "updatedAt": "2026-09-12T20:20:17.608Z",
   "problems": [
     {
       "frontendId": "181",
@@ -23,6 +23,26 @@
           "path": "0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
           "sha": "41a63f2bb3e735f22bff1949ed4c1b6d1cb5dd81",
           "lastSyncedAt": "2026-09-12T20:15:40.850Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "problemName": "0182-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
+      "folderPath": "0182-duplicate-emails/",
+      "readmePath": "0182-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0182-duplicate-emails.sql",
+          "path": "0182-duplicate-emails/0182-duplicate-emails.sql",
+          "sha": "70817b949da7225f216010c22001081eaed7a106",
+          "lastSyncedAt": "2026-09-12T20:20:17.608Z"
         }
       ]
     }
