@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 7 | 3 | 3 | 1 |
+| 8 | 4 | 3 | 1 |
 
 ## Activity
 
@@ -20,25 +20,21 @@ Contains topicwise list of solved problems.
 | 2026-06-26 | 1 |
 | 2026-07-17 | 1 |
 | 2026-07-27 | 2 |
-| 2026-09-13 | 1 |
+| 2026-09-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 3 | 43% |
-| Math | 3 | 43% |
-| Array | 1 | 14% |
-| Enumeration | 1 | 14% |
-| Hash Table | 1 | 14% |
+| Database | 4 | 50% |
+| Math | 3 | 38% |
+| Array | 1 | 13% |
+| Enumeration | 1 | 13% |
+| Hash Table | 1 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
-| [Database](Topics/database/) | 3 |
-| [Enumeration](Topics/enumeration/) | 1 |
-| [Hash Table](Topics/hash-table/) | 1 |
-| [Math](Topics/math/) | 3 |
+| [Database](Topics/database/) | 1 |
 <!---LeetHub Summary End-->
