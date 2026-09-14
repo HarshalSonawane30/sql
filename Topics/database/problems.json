@@ -4,8 +4,28 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-14T05:23:10.983Z",
+  "updatedAt": "2026-09-14T05:40:12.355Z",
   "problems": [
+    {
+      "frontendId": "178",
+      "title": "Rank Scores",
+      "slug": "rank-scores",
+      "problemName": "0178-rank-scores",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-scores/",
+      "folderPath": "0178-rank-scores/",
+      "readmePath": "0178-rank-scores/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0178-rank-scores.sql",
+          "path": "0178-rank-scores/0178-rank-scores.sql",
+          "sha": "fe95f876400b5a09abcdb12da7779794068018a1",
+          "lastSyncedAt": "2026-09-14T05:40:12.355Z"
+        }
+      ]
+    },
     {
       "frontendId": "181",
       "title": "Employees Earning More Than Their Managers",
