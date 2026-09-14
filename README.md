@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 12 | 8 | 3 | 1 |
+| 14 | 10 | 3 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 6 |
+| 2 days | 2 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -21,20 +21,21 @@ Contains topicwise list of solved problems.
 | 2026-07-17 | 1 |
 | 2026-07-27 | 2 |
 | 2026-09-13 | 6 |
+| 2026-09-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Database | 8 | 67% |
-| Math | 3 | 25% |
-| Array | 1 | 8% |
-| Enumeration | 1 | 8% |
-| Hash Table | 1 | 8% |
+| Database | 10 | 71% |
+| Math | 3 | 21% |
+| Array | 1 | 7% |
+| Enumeration | 1 | 7% |
+| Hash Table | 1 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Database](Topics/database/) | 5 |
+| [Database](Topics/database/) | 7 |
 <!---LeetHub Summary End-->
